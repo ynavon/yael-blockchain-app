@@ -1,0 +1,13 @@
+
+
+{
+  "name": "yaelscoffee",
+  "version": "0.0.1",
+  "description": "demo",
+  "scripts": {
+    "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/yaelcoffee.bna"
+  },
+  "author": "yael",
+  "email": "yael.j.navon@gmail.com",
+  "license": "Apache-2.0"
+}
