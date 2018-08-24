@@ -1,3 +1,0 @@
-# coffeetracker4yael
-
-demo
