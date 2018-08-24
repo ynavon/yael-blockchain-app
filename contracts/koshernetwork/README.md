@@ -1,3 +1,0 @@
-# koshernetwork
-
-demo
